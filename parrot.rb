@@ -6,5 +6,4 @@ def parrot(string = "Squawk!")
   return "Squawk!"
 end
 
-parrot
 parrot("Pretty bird!")
