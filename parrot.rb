@@ -2,7 +2,9 @@
 # returns the phrase
 def parrot(string = "Squawk!")
   puts "#{string}"
-  return "Pretty bird!" #"Squawk!"
+  #Pretty bird!"
+  return "Squawk!"
 end
 
 parrot
+parrot("Pretty bird!")
