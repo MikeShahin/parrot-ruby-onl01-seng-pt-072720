@@ -3,7 +3,7 @@
 def parrot(string = "Squawk!")
   puts "#{string}"
   "Pretty bird!"
-  return "Squawk!"
+  return #"Squawk!"
 end
 
 parrot
